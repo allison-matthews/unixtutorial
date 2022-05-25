@@ -9,7 +9,7 @@ UNIX is an operating system first developed in the 1960s, but remains under cons
 #### Opening a terminal: 
 There are many ways to open a terminal (also called the "command line") on either Mac or Linux machines, but here are some quick options:
 On a Mac: ⌘ _Cmd_ + _Space_ and type _terminal_, hit enter.
-On a Linux: Click _Applications_ &rarr; _System Tools &rarr; _Terminal_.
+On a Linux: Click _Applications_ &rarr; _System Tools_ &rarr; _Terminal_.
 On a Windows: (to-do)
 
 There are different types of shells (e.g. `bash`, `csh`, `zcsh`, etc.), but we will be using the `bash` shell. To check what shell you're using, type: `echo $SHELL` in the terminal. We'll talk more about what `echo` does later on.
