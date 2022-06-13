@@ -77,7 +77,7 @@ The **ZIP** format supports lossless file compression, and files with the extens
 ### Exploring detailed information of files/directories
 
 If you type `ls` into the command line now, you should see a list of files and subdirectories. In order to list more information on the contents, enter `ls -l`. You should see something similar to the image below.
-![ls -l example](/img/llexample.png)
+![ls -l example]([/img/llexample.png](https://github.com/allison-matthews/allison-matthews.github.io/raw/master/img/llexample.png)
 Lines that begin with **d** indicate directories. The first column lists the file/directory permissions: **r**: read permission, **w**: write permission, **x**: execute permission. 
 ```mermaid
 flowchart TD
